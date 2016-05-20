@@ -1,4 +1,5 @@
 ## AngularCamp
+[angularcamp.org](http://angularcamp.org)
 
 A local event focused on everything related to AngularJS
 
