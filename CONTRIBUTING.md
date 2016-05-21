@@ -17,7 +17,7 @@ Check out our [Contribs & Interests Form](https://github.com/AngularCamp/angular
 We are looking forward to many awesome sessions with you at AngularCamp!
 
 Check out the submitted
-[Contribsutions](https://github.com/AngularCamp/angularcamp.org/issues?q=is%3Aissue+is%3Aopen+label%3Acontribution) and 
+[Contributions](https://github.com/AngularCamp/angularcamp.org/issues?q=is%3Aissue+is%3Aopen+label%3Acontribution) and 
 [Interests](https://github.com/AngularCamp/angularcamp.org/issues?q=is%3Aissue+is%3Aopen+label%3Ainterest)
 
 ##> How is it working?
