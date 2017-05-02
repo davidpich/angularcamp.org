@@ -19,6 +19,9 @@ If you are having problems formatting your issue please refer to this article on
 **Abstract:**
 <!-- Describe that will you do -->
 
+**Duration:** 
+<!-- We recommend: talks around 30 min. hands-on sessions from 45 min  up to 3 h -->
+
 **Complexity:**
 <!-- It's important to target the right audience -->
 [ ] Advanced
