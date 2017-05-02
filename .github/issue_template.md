@@ -2,6 +2,8 @@
 IF YOU DON'T FILL OUT THE FOLLOWING INFORMATION WE MIGHT CLOSE YOUR ISSUE WITHOUT INVESTIGATING
 
 If you are having problems formatting your issue please refer to this article on using markdown in Github: https://guides.github.com/features/mastering-markdown/
+
+If you'd like to discuss anything related to the call for contributions or your talk idea, feel free to reach out to us by email hello@angularcamp.org
 -->
 
 **I'm submitting a ...**  (check one with "x")
@@ -10,8 +12,10 @@ If you are having problems formatting your issue please refer to this article on
 [ ] Interest 
 [ ] Support request => Please do not submit support requests here, use one of these channels: [twitter](https://twitter.com/AngularCamp) or [email](mailto:hello@angularcamp.org)
 
-**Your Twitter handle:**
+**Your Twitter handle*:**
 <!-- without @ -->
+
+**Your Name*:**
 
 **Title:**
 <!-- Put a title that describes well the topic of your contribution -->
